@@ -1,5 +1,7 @@
-# CS4641 - Final Project
-## Abhay Tangella - 19 March 2020
+# Analysis of Regression Algorithms to Predict Future Weather
+
+### Summary
+This repository contains a report of three regression algorithms used to predict weather based on historical Siberian weather data: Kernel Ridge Regression, k-Neighbors Regression, and Neural Networks. Also included in the repository is the code used to generate data for the report.
 
 ### Instructions on dataset
 The dataset I used in my experiments (weather.csv) is attached to this zip file. It can be accessed at https://www.kaggle.com/dwdkills/weather, but I ran some processing on the original dataset because it originally used commas as decimal points (European standard); therefore, I changed all the commas to periods and included the updated dataset in this zip file.
